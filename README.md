@@ -2,12 +2,16 @@
 <h3 align="center">Full Stack Web Developer | Laravel & WordPress Specialist</h3>
 
 <p align="center">
+  <a href="https://devballavmondal.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/devballavmondal" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:devballavmondal28@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <!-- <img src="https://img.shields.io/badge/Location-Contai%2C%20West%20Bengal%2C%20India-informational?style=for-the-badge" /> -->
 </p>
 
 ---
@@ -89,6 +93,7 @@
 ### 📫 Let's Connect
 
 <p align="left">
+  <a href="https://devballavmondal.vercel.app/">🌐 devballavmondal.vercel.app</a><br/>
   <a href="mailto:devballavmondal28@gmail.com">📧 devballavmondal28@gmail.com</a><br/>
   <a href="https://www.linkedin.com/in/devballavmondal">🔗 linkedin.com/in/devballavmondal</a><br/>
   📱 +91-9382124265
